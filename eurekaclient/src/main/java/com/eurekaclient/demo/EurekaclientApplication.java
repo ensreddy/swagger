@@ -18,4 +18,10 @@ public class EurekaclientApplication {
 	   public String home() {
 	      return "Eureka Client application";
 	   }
+
+
+//@RequestMapping(value = "/")
+	   //public String home() {
+	      //return "Eureka Client application";
+	   //}
 }
